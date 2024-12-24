@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @iambibi
-- Bot Discord Developper in Javascript
+- Java and Javascript Developper
 - 🌱 I’m currently learning Java
