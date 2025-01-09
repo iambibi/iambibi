@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @iambibi
+- 👋 Hi, I’m @iambibi (Enzo Thiébaut)
 - Java and Javascript Developper
 - 🌱 I’m currently learning Java
