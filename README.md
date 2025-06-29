@@ -6,6 +6,10 @@
 
 ###
 
+<img align="right" height="150" src="https://cdn.discordapp.com/attachments/875372525645885490/1388928316496412863/2025-06-29_18.57.29_2.png?ex=6862c3cb&is=6861724b&hm=efa0d0887f5ed44dadc08ee550a3b11008b361edda2e3160221f05fddf8c578b&"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -20,20 +24,23 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/875372525645885490/1388928316496412863/2025-06-29_18.57.29_2.png?ex=6862c3cb&is=6861724b&hm=efa0d0887f5ed44dadc08ee550a3b11008b361edda2e3160221f05fddf8c578b&"  />
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iambibi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=iambibi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iambibi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=iambibi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=iambibi&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=iambibi&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
