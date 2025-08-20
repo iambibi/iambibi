@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/875372525645885490/1388928316496412863/2025-06-29_18.57.29_2.png?ex=6862c3cb&is=6861724b&hm=efa0d0887f5ed44dadc08ee550a3b11008b361edda2e3160221f05fddf8c578b&"  />
+<img align="right" height="150" src="https://github.com/user-attachments/assets/72289191-6d20-4d6f-a7cc-314dcf7eed51"  />
 
 ###
 
